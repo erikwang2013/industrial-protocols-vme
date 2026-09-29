@@ -20,7 +20,7 @@ VME 桥接模块（Tundra Universe II / Tsi148 等）
 
 ## 兼容框架
 
-Laravel / Webman / Hyperf / ThinkPHP / Yii2 / Plain PHP
+Laravel / Webman / Hyperf / ThinkPHP / Yii2 / Yii3 / Plain PHP
 
 ## 系统要求
 

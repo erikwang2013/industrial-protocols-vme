@@ -22,7 +22,7 @@ Bridge mode: BridgeConnector (implements ConnectorInterface) → BridgeInterface
 
 ## Supported Frameworks
 
-Compatible with 6 PHP runtimes via kernel framework adapters: Laravel (ServiceProvider+Facade+artisan), Webman (config/plugin auto-discovery+ProtocolProcess), Hyperf (ConfigProvider+DI+KernelFactory), ThinkPHP (services.php+IndustrialProtocolsService), Yii2 (Bootstrap+component), Plain PHP (direct Kernel instantiation)
+Compatible with 7 PHP runtimes via kernel framework adapters: Laravel (ServiceProvider+Facade+artisan), Webman (config/plugin auto-discovery+ProtocolProcess), Hyperf (ConfigProvider+DI+KernelFactory), ThinkPHP (services.php+IndustrialProtocolsService), Yii2 (Bootstrap+component), Yii3 (DI container+KernelFactory), Plain PHP (direct Kernel instantiation)
 
 ## Usage
 
